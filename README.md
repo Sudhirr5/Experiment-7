@@ -1,5 +1,5 @@
 # Experiment-7
-### Name : SUDHIR KUAMR. R
+### Name : SUDHIR KUMAR. R
 ### Reg no. : 212223230221
 
 ## Aim :
